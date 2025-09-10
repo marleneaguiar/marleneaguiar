@@ -3,7 +3,7 @@ Hello there 👋
 <h1 align="center">Marlene Aguiar</h1>
 
 <p align="center">
-  🎓 Explorando Cloud 
+  ☁️ Explorando Cloud 
 </p>
 
 Oi! Eu sou uma estudante de tecnologia explorando computação em nuvem (AWS), <br>
