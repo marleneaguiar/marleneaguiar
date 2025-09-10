@@ -7,6 +7,7 @@ Hello there 👋
 </p>
 
 Oi! Eu sou uma estudante de tecnologia explorando computação em nuvem (AWS), <br>
+
 Estou usando este perfil como um diário de aprendizagem enquanto me preparo para as certificações AWS e desenvolvo projetos práticos.
 
 ---
