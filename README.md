@@ -13,7 +13,7 @@ Estou usando este perfil como um diário de aprendizagem enquanto me preparo par
 
 ### O que você vai encontrar aqui
 
--**Guia de Estudos para Certificações AWS**  
+- **Guia de Estudos para Certificações AWS**  
   Minhas anotações cobrindo todo o conteúdo de cada prova , meus flashcards para revisão espaçada e com gabaritos comentados. 
   → Um material vivo que documenta meu processo de estudo para certificações.  
 
